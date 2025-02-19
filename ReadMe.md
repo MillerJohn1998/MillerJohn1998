@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bezaleel Bagoes A. A.</h1>
 <h3 align="center">A passionate game developer and QA tester from Indonesia</h3>
 
-- 🌱 I’m currently learning **Spring boot and Backend**
-
 - 💬 Ask me about **Unity, Game Development and Tech**
 
 - 📫 How to reach me **https://www.linkedin.com/in/bezaleel-bagoes-anugrahri-ariessanta-796b621a9/**
